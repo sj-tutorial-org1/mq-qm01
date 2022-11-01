@@ -9,7 +9,7 @@ spec:
   license:
     accept: true
 
-    license: L-RJON-BZFQU2
+    license: L-RJON-CD3JKX
 
     use: NonProduction
   queueManager:
@@ -73,6 +73,6 @@ spec:
     collector: {}
     enabled: false
     namespace: ""
-  version: 9.2.3.0-r1
+  version: 9.3.1.0-r1
   web:
     enabled: true

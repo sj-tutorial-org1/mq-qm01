@@ -9,11 +9,11 @@ spec:
   queueManager:
     storage:
       queueManager:
-        class: ibmc-block-gold
+        class: rook-ceph-block
         type: persistent-claim
       persistedData:
         enabled: true
-        class: ibmc-block-gold
+        class: rook-ceph-block
       recoveryLogs:
         enabled: true
-        class: ibmc-block-gold
+        class: rook-ceph-block

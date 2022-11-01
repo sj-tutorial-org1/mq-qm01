@@ -1,3 +1,3 @@
-FROM cp.icr.io/cp/ibm-mqadvanced-server-integration@sha256:e527f7279954a0abd9e5a50b8287dbdc3fff36aaeacf0335ebc0c4f7a0aab58e
+FROM cp.icr.io/cp/ibm-mqadvanced-server-integration@sha256:1c4c8f62e189afd6e0cd5734f4967201c8be4f73e54fbd2f755df9a6633bfd43
 
 # COPY *.mqsc /etc/mqm/
